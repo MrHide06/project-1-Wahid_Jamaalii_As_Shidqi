@@ -1144,6 +1144,9 @@ pre code {
     -ms-flex: 0 0 33.333333%;
     flex: 0 0 33.333333%;
     max-width: 33.333333%;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   .col-md-5 {
     -ms-flex: 0 0 41.666667%;
@@ -1164,6 +1167,8 @@ pre code {
     -ms-flex: 0 0 66.666667%;
     flex: 0 0 66.666667%;
     max-width: 66.666667%;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   .col-md-9 {
     -ms-flex: 0 0 75%;
